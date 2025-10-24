@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Eu sou Carlos Átila, nascido em 1994, e estou migrando de profissão. Eu trabalhava como personal trainer e fiz intercâmbio na Irlanda no ano de 2022. Morei lá por dois anos e meio, melhorei meu nível de inglês e conheci pessoas que trabalham na área de programação. Com o tempo, fui me apaixonando por essa carreira e comecei a estudar lógica de programação na plataforma Alura. Estou muito feliz com minha evolução e me dedicando cada dia mais aos estudos para ingressar na carreira de desenvolvedor.<br><br>⚡ Ainda não tenho experiência na área de desenvolvimento, mas estou em busca de empresas que me deem a oportunidade de colocar em prática tudo o que estou aprendendo nos meus cursos, além de aprender mais com meus colegas de equipe e contribuir com minhas ideias para ajudar a empresa a crescer cada vez mais</p>
+<p align="left">Eu sou Carlos Átila, nasci em 1994, e estou migrando de profissão. Eu trabalhava como personal trainer e fiz intercâmbio na Irlanda no ano de 2022. Morei lá por dois anos e meio, melhorei meu nível de inglês e conheci pessoas que trabalham na área de programação. Com o tempo, fui me apaixonando por essa carreira e comecei a estudar lógica de programação na plataforma Alura. Estou muito feliz com minha evolução e me dedicando cada dia mais aos estudos para ingressar na carreira de desenvolvedor.<br><br>⚡ Ainda não tenho experiência na área de desenvolvimento, mas estou em busca de empresas que me deem a oportunidade de colocar em prática tudo o que estou aprendendo nos meus cursos, além de aprender mais com meus colegas de equipe e contribuir com minhas ideias para ajudar a empresa a crescer cada vez mais</p>
 
 ###
 
