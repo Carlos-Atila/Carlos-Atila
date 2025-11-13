@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Eu sou Carlos Átila, nasci em 1994, e estou migrando de profissão. Eu trabalhava como personal trainer e fiz intercâmbio na Irlanda no ano de 2022. Morei lá por dois anos e meio, melhorei meu nível de inglês e conheci pessoas que trabalham na área de programação. Com o tempo, fui me apaixonando por essa carreira e comecei a estudar lógica de programação na plataforma Alura. Estou muito feliz com minha evolução e me dedicando cada dia mais aos estudos para ingressar na carreira de desenvolvedor.<br><br>⚡ Ainda não tenho experiência na área de desenvolvimento web, mas estou em busca de empresas que me deem a oportunidade de colocar em prática tudo o que estou aprendendo nos meus cursos, além de aprender mais com meus colegas de equipe e contribuir com minhas ideias para ajudar a empresa a crescer cada vez mais</p>
+<p align="left">Eu sou Carlos Átila, nascido em 1994, e estou migrando de profissão. Eu trabalhava como personal trainer e fiz intercâmbio na Irlanda no ano de 2022. Morei lá por dois anos e meio, melhorei meu nível de inglês e conheci pessoas que trabalham na área de programação. Com o tempo, fui me apaixonando por essa carreira e comecei a estudar lógica de programação na plataforma Alura. Estou muito feliz com minha evolução e me dedicando cada dia mais aos estudos para ingressar na carreira de desenvolvedor.<br><br>⚡ Ainda não tenho experiência na área de desenvolvimento, mas estou em busca de empresas que me deem a oportunidade de colocar em prática tudo o que estou aprendendo nos meus cursos, além de aprender mais com meus colegas de equipe e contribuir com minhas ideias para ajudar a empresa a crescer cada vez mais</p>
 
 ###
 
@@ -37,16 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Atila&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Atila&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
